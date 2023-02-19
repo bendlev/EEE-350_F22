@@ -1,66 +1,18 @@
-# data-migration-template
-Template used for data migration, DIFUSE 23W.
+# Random Signal Analysis (EEE 350)
 
-## SOCY 00 DIFUSE Module (Spring 2020) ##
+![DIFUSE Data Science Module.  Engineering 350: Random Signal Analysis.  Professor Chao Wang, ASU.  Funded by NSF IUSE1917002](DIFUSE EEE 350.png)
 
-#### Contributors: Jane Doe ('24), Muhammad Aronno ('23), and Professor Craig Silsby (PI) ####
-
-![Sample title slide for a DIFUSE module.](additional/repository_assets/sample_module.JPG)
-
-##### Module Description #####
-This module is used to learn and then apply dyad interaction modeling using an R-based programming module, with the help of the package 'dyAddon' and open-sourced datasets from the Data of Sets.
+DIFUSE Team: Team: Joe Gyorda (GR '24), Ben Levesque ('24), Chao Wang (Professor of Statistics, Arizona State University) Scott Pauls (PI, Professor of Mathematics), Laura Ray (PI, Professor of Engineering)
 
 This module was developed through the DIFUSE project at Dartmouth College and funded by the National Science Foundation award IUSE-1917002.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
-##### Folder Structure #####
+Random Signal Analysis introduces the concepts of probability and random signals with application to problems in engineering. As many of the students in the class are interested in careers in aerospace, the module focuses on airline data and appications to decision making in the airline industry.  In the first part of the module, students engage in exploratory data analysis using univariate and bivariate analyses to generate hypotheses about factors that contribute to flight delays.  In the second part, students assume the role of a consultant employed by Phoenix Sky Harbor airport to investigate the role of delays in the performance of airlines. At the end of Part 2, students make an informed recommendation for Sky Harbor based on the output of various machine learning models they implement.  The module uses MATLAB as a platform and covers the data science topics of analyzing data, visualizing data, drawing conclusions, and communicating data.
 
-The repository is structured with the module development timeline in mind. It is organized according to development milestones.
+![Short length module for an introductory course using MATLAB and covering analyzing, visualizing data, drawing conclusions, and communicating data.](EEE-350-badge.png "Short length module for an introductory course using MATLAB and covering analyzing, visualizing data, drawing conclusions, and communicating data.")
 
-For instructors and interested parties, the history of this repository (with detailed commits), can be found [here](https://github.com/difuse-dartmouth/data-migration-template/commits/main/).
-
-```
-main\
-    preliminary\
-        difuse_scaffolding\
-        course_materials\
-    development\
-    completed_module\
-        public\
-            logistics\
-                installation.docx
-            data\
-                assignment1_data.csv
-                assignment2_data.m
-                assignment2_data.mlx
-                assignment3_data.xlsx
-            components\
-                assignment1\
-                    assignment1_instructions.docx
-                    assignment1_instructions.pdf
-                    assignment1_data.csv
-                assignment2\
-                assignment3\
-        solutions\
-            components\
-                assignment1\
-                    assignment1_solutions.mlx
-                assignment2\
-                    assignment2_solutions.pdf
-                assignment3\
-                    assignment3_solutions.ipynb
-
-    additional\
-        sample_datasets\
-            sample_data1.csv
-            sample_data2.csv
-            sample_data3.xlsx
-        repository_assets\
-            difuse_logo.png
-            creative_commons.jpg
-        notes.txt
-```
+For instructors and interested parties, the history of this repository (with detailed commits), can be found [here](https://github.com/difuse-dartmouth/EEE-350_F22/commits/main/).
 
 **On Repository Structure:**
 * **Preliminary**: Contains all files pre-requisite to module development. ```difuse_scaffolding``` is provided by DIFUSE, and ```course_materials``` (including course syllabus, relevant assignments, etc.) are provided by course instructor.
