@@ -1,6 +1,6 @@
 # Random Signal Analysis (EEE 350)
 
-![DIFUSE Data Science Module.  Engineering 350: Random Signal Analysis.  Professor Chao Wang, ASU.  Funded by NSF IUSE1917002](DIFUSE EEE 350.png)
+![DIFUSE Data Science Module.  Electrical Engineering 350: Random Signal Analysis.  Professor Chao Wang, ASU.  Funded by NSF IUSE1917002](DIFUSE EEE 350.png "DIFUSE Data Science Module.  Electrical Engineering 350: Random Signal Analysis.  Professor Chao Wang, ASU.  Funded by NSF IUSE1917002")
 
 DIFUSE Team: Team: Joe Gyorda (GR '24), Ben Levesque ('24), Chao Wang (Professor of Statistics, Arizona State University) Scott Pauls (PI, Professor of Mathematics), Laura Ray (PI, Professor of Engineering)
 
