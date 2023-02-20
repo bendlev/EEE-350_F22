@@ -38,13 +38,8 @@ Use this section to get an idea of the timeline of the module, what components a
 
 | Class Session | In/Out of Class | Assignment Description                                                                            | Assignment Files (Linked to Repository Contents) |
 |---------------|-----------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------|
-|1             | In-class        | Introduce Module, have students start Part 1 MatLab activity, complete for homework
-
- | ***                                                 |
-|1+            | Out of class    | Students are expected to collaborate in groups to develop a presentation that will be uploaded to Canvas.
-
- |                                                  |
-|2             | In-class        | Introduce Part 2 of Module, have students start Part 2 MatLab activity in groups of 3-4
-
- | ***                                                 |
+|1             | In-class        | Introduce Module, have students start Part 1 MATLAB activity, complete for homework | ***                                                 |
+|1+            | Out of class    | Students are expected to collaborate in groups to develop a presentation that will be uploaded to Canvas. |   ***                                               |
+|2             | In-class        | Introduce Part 2 of Module, have students start Part 2 MATLAB activity in groups of 3-4 | ***                                                 |
+|2+            | Out of class    | Students submit their finished presentation slidedecks from Part 2 to instructor for review. | *** |
 
