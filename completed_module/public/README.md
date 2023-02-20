@@ -4,18 +4,18 @@ This folder contains all the components of the data science module for ASU's EEE
 
 ## Primary Objective
 
-?
+This module’s aim is to reinforce the statistical concepts introduced in class through the process of building a data analysis pipeline. Statistical concepts are first implemented to gain an understanding of the data, and this understanding is then used to implement machine learning models. The module is split into two assignments: the first part has students work with the dataset to gain insight into its variables and underlying relationships (exploratory data analysis), and the second part has students implement supervised machine learning models to generate predictions that may inform the decision making of airlines. The machine learning assignment provides additional introductions to the underlying concepts and focuses on interpreting the results rather than coding the models by providing function wrappers to expedite the process.
 
 ## Student Expectations
 
-?
+This module was designed for the cohort of students enrolled in Dr. Wang’s class, therefore assuming some working knowledge of MATLAB coding. The module also assumes students have covered some basic probability (e.g., normal distributions) and statistical (e.g., hypothesis testing) concepts in their class.
 
 ## Learning Objectives 
 By completing the module, you will:
-1. Use exploratory data analysis to identify possible relationships between variables.
-2. Create and interpret data visualizations to evaluate models and answer questions.
-3. Communicate data analytic findings to a general audience.
-4. ??
+1. Understand the steps of exploratory data analysis and what conclusions can be drawn about the relationships in the data.
+2. Understand the difference between regression and classification and the conclusions that can be drawn from each.
+3. Create and interpret data visualizations to evaluate models and answer questions.
+4. Gain comfort applying the aforementioned concepts to a real-world dataset and interpreting and presenting the results in an informative manner.
 
 
 ## Module Outline
@@ -38,7 +38,13 @@ Use this section to get an idea of the timeline of the module, what components a
 
 | Class Session | In/Out of Class | Assignment Description                                                                            | Assignment Files (Linked to Repository Contents) |
 |---------------|-----------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------|
-|1             | In-class        | *** | ***                                                 |
-|1+            | Out of class    | *** |                                                  |
-|2             | In-class        | *** | ***                                                 |
+|1             | In-class        | Introduce Module, have students start Part 1 MatLab activity, complete for homework
+
+ | ***                                                 |
+|1+            | Out of class    | Students are expected to collaborate in groups to develop a presentation that will be uploaded to Canvas.
+
+ |                                                  |
+|2             | In-class        | Introduce Part 2 of Module, have students start Part 2 MatLab activity in groups of 3-4
+
+ | ***                                                 |
 
